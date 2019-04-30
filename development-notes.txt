@@ -1,0 +1,86 @@
+,>,>, takes input in for a+b
+
+CHECK 
+CONVERT TO ASCII NUMERIC
+> ++++ ++++ initialize array pointer c1 to 8 
+[
+< +++ +++ c0 will increment 6
+> - decrement 1 from c1
+]
+< . print c0
+
+
+WORKING CODE
++++++ +++++ +++++ +++++ setup 20 to mult 3 in c1
+> ++
+[-<+++++ +++++ +++++ +++++>]<+++++++++ c1 set to 69 as counter
+[->+>+>+>+>+<<<<<] c3-c7 set to 69 for E
+>> +++++ +++++ +++ c4 set to 82 for R
+> +++++ +++++ +++ c5 set to 82 for R
+> +++++ +++++ c6 set to O
+> +++++ +++++ +++ c7 set to R
+
+> +++ ++++ operator initialization
+> +++ +++
+[-<+++ +++>] c8 is 43 which is plus operator
+
+,>,>, c8 is a c9 is operator c10 is b
+
+<[-<<->>] check operator
+<<[[-]<<<<<.>.>.>.>.>>>] if c9 not 0 print ERROR
+
+++++ ++++ ++++ initialize 12 to mult to 48
+[>> ++++ <<-] c9 holds 48 for ASCII conversion
+
+>[->>+<<] add value from c8 to c10 for total
+>[->-<] convert to raw ASCII num
+
+>. print c10
+
+
+
+, 255
+>, 69
+>, 82
+>, 82
+>, 79
+>, 82
+>, 43
+
+ASCII
+E - 69
+R - 82
+R - 82
+O - 79
+R - 82
++ - 43
+
+ASCII 2 digit conversions
+(one digit) 1 + 1 = 2
+49 + 49 = 50 dec
+98 -> 50
+
+1 + 9  = 10
+49 + 57= 4948 dec
+-31 + 39 = 3130 hex 
+106 -> (49)48
+
+2+8 = 10
+50+56= 4948 dec
+-32+38=3130 hex
+106 -> (49)48
+
+6+5 = 11
+54+53 = 4949 dec
+107 -> (49)49
+
+7+5 = 12
+55+53= 4950 dec
+108 -> (49)50
+
+* if two digit, 58 diff *
+
+2 Digit procedure:
+x = total-48
+if x >= 58
+then x = <49>(x - 10)
