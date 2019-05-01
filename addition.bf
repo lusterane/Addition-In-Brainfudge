@@ -16,9 +16,14 @@
 <[-<<<->>>] check operator
 <<< c7 is start of if conditional
 >+<[ do something 
->>>>>>+<<<<<< if not empty 1 on new mem line
-<<<<<.>.>.>.>.>
+>>>>>>+<<<<<<  1 on new mem line
+<<<<<.>.>.>.>.> if error print error
 [-]>-<]>[ 
->>>>>++<<<<< if empty 2 on new mem line
+>>>>>++<<<<< 2 on new mem line
+>[->>+<<]<
 
+>> THIS IS NOT PLACING AS INTENDED
+++++ ++++ ++++ initialize 12 to mult to 48
+[>> ++++ <<-] c9 holds 48 for ASCII conversion
+<<
 do something else -]<
