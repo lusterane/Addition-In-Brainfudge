@@ -11,15 +11,14 @@
 > +++ +++
 [-<+++ +++>] c8 is 43 which is plus operator
 
-,>,>, c8 is a c9 is operator c10 is b
+>,>,>, c9 is a c10 is operator c11 is b
 
-<[-<<->>] check operator
-<<[[-]<<<<<.>.>.>.>.>>>] if c9 not 0 print ERROR
+<[-<<<->>>] check operator
+<<< c7 is start of if conditional
+>+<[ do something 
+>>>>>>+<<<<<< if not empty 1 on new mem line
+<<<<<.>.>.>.>.>
+[-]>-<]>[ 
+>>>>>++<<<<< if empty 2 on new mem line
 
-++++ ++++ ++++ initialize 12 to mult to 48
-[>> ++++ <<-] c9 holds 48 for ASCII conversion
-
->[->>+<<] add value from c8 to c10 for total
->[->-<] convert to raw ASCII num
-
->.
+do something else -]<
