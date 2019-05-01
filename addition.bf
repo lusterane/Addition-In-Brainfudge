@@ -22,8 +22,14 @@
 >>>>>++<<<<< 2 on new mem line
 >[->>+<<]<
 
->> THIS IS NOT PLACING AS INTENDED
+>
 ++++ ++++ ++++ initialize 12 to mult to 48
-[>> ++++ <<-] c9 holds 48 for ASCII conversion
-<<
-do something else -]<
+[> ++++ <-] c9 holds 48 for ASCII conversion
+>[->-<]< convert to ascii value
+
++++++ +++++ +++++ +++++ +++++ ++++ 
+[> ++ <-] initialize 58 to check two digit
+
+
+<
+do something else -]>
