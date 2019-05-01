@@ -22,4 +22,4 @@
 >[->>+<<] add value from c8 to c10 for total
 >[->-<] convert to raw ASCII num
 
->. print c10
+>.
