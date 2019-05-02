@@ -27,9 +27,8 @@
 [> ++++ <-] c9 holds 48 for ASCII conversion
 >[->-<]< convert to ascii value
 
-+++++ +++++ +++++ +++++ +++++ ++++ 
-[> ++ <-] initialize 58 to check two digit
-
+>>.
+<<
 
 <
 do something else -]>
